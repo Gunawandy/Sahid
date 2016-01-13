@@ -1,6 +1,6 @@
 {
     "name": "pfsahid/package",
-    "description": "Aplikasi Pembuatan Game dengan Menggunakan Laravel 5,
+    "description": "Aplikasi Pembuatan Game dengan Menggunakan Laravel 5",
     "keywords": ["package", "framework", "laravel","game","app", "Crud"],
     "license": "MIT",
     "type": "project",
